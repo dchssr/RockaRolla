@@ -1,0 +1,19 @@
+{
+  "name": "RockaRolla",
+  "version": "1.0.0",
+  "description": "Concatenative stack-based die-rolling domain-specific language and runtime",
+  "main": "main.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Dave Chesser <me@dchesser.website>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "typescript": "^5.2.2"
+  }
+}
